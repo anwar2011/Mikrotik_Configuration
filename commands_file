@@ -1,0 +1,2 @@
+/user/group/set read policy=ssh
+/user/add name=sportal group=read password=SuPPort321
